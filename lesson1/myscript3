@@ -1,0 +1,9 @@
+pwd
+echo
+echo The contents of the directory are:
+ls -l
+echo The current date and time is:
+date
+echo -n "Please enter your name:"
+read name
+echo Your name is $name, how are you?
