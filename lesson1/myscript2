@@ -1,0 +1,6 @@
+pwd
+echo
+echo The contents of the directory are:
+ls -l
+echo The current date and time is:
+date
